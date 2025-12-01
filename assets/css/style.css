@@ -1,5 +1,5 @@
 body{
-    font-family:  'Lucida Sans Unicode';
+    font-family: 'Lucida Sans Unicode';
     color: rgb(8, 21, 133);  
     background-color: rgb(193, 199, 250);
 }
@@ -13,7 +13,8 @@ body{
 .navBar{
     display: flex;
     align-items: center;
-    padding: 0 auto;
+    padding: 0 auto ;
+  
 }
 a:hover{
     color:rgba(27, 214, 158, 0.952);
@@ -39,12 +40,15 @@ li{
     width: fit-content;  
     margin-left: auto;
     background-color:  rgb(250, 210, 99);
-    border-radius: 0.6rem;
+    border-radius: 5rem;
+    padding:0.3rem;
+    padding: 0.5rem;
     border-color:rgb(235, 168, 129);
     cursor:pointer;
  }
+
 .btnCar:hover{
-    background-color: rgba(247, 191, 187, 0.918);    
+    background-color: rgb(255, 167, 67);    
 }
 .promotion{
     display: flex;
@@ -66,11 +70,17 @@ li{
     color: rgb(8, 21, 133);;
     border-radius: 1rem;
     padding: 0.9rem;
+    box-shadow: 0 4px 8px rgba(12, 6, 70, 0.1);
+    transition: 0.3s;
+}
+.cardProduct:hover{
+    transform: translateY(-8px);/*levanta las card*/
+    box-shadow: 0 12px 25px rgba(145, 126, 250, 0.808);
 }
 .imgProduct{
     align-self: center;
     height: 10rem;
-    width:  10rem;
+    width:10rem;
 }
 .price{
     font-weight: bolder;
@@ -93,16 +103,23 @@ li{
     gap: 1rem;
 }
 #comentDiv article {
-    background-color:rgb(220, 229, 250);
+    background-color:/*rgb(220, 229, 250)*/ rgba(232, 231, 255, 0.945);
     border-radius: 0.5rem;
     padding: 1rem;
     text-align: center;
     font-style: italic;
     max-width: 20rem;
+    box-shadow: 0 5px 8px rgba(12, 6, 70, 0.1);
+    transition: 0.3s;
+}
+#comentDiv article:hover{
+    transform: translateY(-8px);
+    box-shadow:  0 12px 25px rgba(130, 109, 245, 0.808);
 }
 .autor{
     font-weight: bold;
 }
+
 /* En móvil: pasan a columna */
 @media (max-width: 700px) {
     #comentDiv {
@@ -213,7 +230,7 @@ li{
     border-radius: 0.3rem;
     border: 1px solid rgb(43, 66, 199);
     font-size: 1rem;
-    color:rbg(43, 66, 199);
+    color: rgb(43, 66, 199);
     width: 100%;                
     box-sizing: border-box;
 }
