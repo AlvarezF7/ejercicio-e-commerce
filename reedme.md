@@ -2,7 +2,7 @@
 En este proyecto tiene la finalidad de implementar  una interfaz web de una tienda e-commerce con navegación, incluye un listado de productos, un detalle de cada producto y un footer.
 
 ## Descripción
-incorporar los diferentes elementos restudiados durante el modulo 2 correspondientes a los fundamentos del desarrollo Front-End.
+Incorporar los diferentes elementos restudiados durante el modulo 2 correspondientes a los fundamentos del desarrollo Front-End.
 
 ## Tecnologías
 En este proyectyo se utilizo HTML5 y CSS3.
@@ -19,7 +19,7 @@ En este proyectyo se utilizo HTML5 y CSS3.
 -Footer con información de la tienda.
 
 ## Capturas
-![Home](https://github.com/AlvarezF7/ejercicio-e-commerce/assets/img/home.png) 
+![Home](https://github.com/AlvarezF7/ejercicio-e-commerce/blob/main/assets/img/Home.png) 
 ![Detalle](https://github.com/AlvarezF7/ejercicio-e-commerce/blob/main/assets/img/detalle-producto.png)
 [Link al Proyecto]()
 
