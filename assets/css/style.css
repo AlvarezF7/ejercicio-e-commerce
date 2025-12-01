@@ -208,7 +208,7 @@ li{
     font-style: italic;
 }
 
-#txtEmail, #txtName, #txtLast,#txtPhone, #mensaje, #txtMessage{
+#txtEmail, #txtName, #txtLast,#txtPhone, #mensaje, #txtMessage, #back2{
     padding: 0.5rem;
     border-radius: 0.3rem;
     border: 1px solid rgb(43, 66, 199);
