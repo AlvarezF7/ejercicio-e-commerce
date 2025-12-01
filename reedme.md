@@ -20,7 +20,7 @@ En este proyectyo se utilizo HTML5 y CSS3.
 
 ## Capturas
 ![Home](https://github.com/AlvarezF7/ejercicio-e-commerce/assets/img/home.png) 
-![Detalle](https://github.com/AlvarezF7/ejercicio-e-commerce/assets/img/destalle-producto.png )
+![Detalle](https://github.com/AlvarezF7/ejercicio-e-commerce/blob/main/assets/img/detalle-producto.png)
 [Link al Proyecto]()
 
 ## Autor
