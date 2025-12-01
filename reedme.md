@@ -21,6 +21,7 @@ En este proyectyo se utilizo HTML5 y CSS3.
 ## Capturas
 ![Home]()
 ![Detalle]()
+[Link al Proyecto]()
 
 ## Autor
-Fernanda Alvarez — [https://github.com/AlvarezF7]
+Fernanda Alvarez — [Perfil Github](https://github.com/AlvarezF7)
