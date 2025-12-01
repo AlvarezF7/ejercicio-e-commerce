@@ -19,8 +19,8 @@ En este proyectyo se utilizo HTML5 y CSS3.
 -Footer con información de la tienda.
 
 ## Capturas
-![Home]()
-![Detalle]()
+![Home](https://github.com/AlvarezF7/ejercicio-e-commerce/assets/img/home.png) 
+![Detalle](https://github.com/AlvarezF7/ejercicio-e-commerce/assets/img/destalle-producto.png )
 [Link al Proyecto]()
 
 ## Autor
