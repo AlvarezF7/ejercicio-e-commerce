@@ -21,7 +21,9 @@ En este proyectyo se utilizo HTML5 y CSS3.
 ## Capturas
 ![Home](https://github.com/AlvarezF7/ejercicio-e-commerce/blob/main/assets/img/Home.png) 
 ![Detalle](https://github.com/AlvarezF7/ejercicio-e-commerce/blob/main/assets/img/detalle-producto.png)
-[Link al Proyecto]()
+
+## Ver Proyecto
+[Link al Proyecto](https://alvarezf7.github.io/ejercicio-e-commerce/)
 
 ## Autor
 Fernanda Alvarez — [Perfil Github](https://github.com/AlvarezF7)
