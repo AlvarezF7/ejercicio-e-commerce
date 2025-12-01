@@ -8,15 +8,97 @@
     <title>e-commerce</title>
 </head>
 <body>
-    <div class= "conteiner" id="conteiner">
-        <div class="navbar">
-            <label>Bakary Splies </label>
-            <ul></ul>
-
-           
-        </div>
-        <div class="main"> Bakery Suplies </div>
+    <div class="preheader">
+        <p>No te pierdas las ofertas del Black Friday</p>
     </div>
-    
+    <header>
+        <nav class="navBar" id="nav">
+             <img src="./assets/img/icon-3.jpg" class="logo" alt="top-repostero">
+             <h3>Top Reposteros</h3>
+             <ul>
+                <li><a href="./index.html">Home</a></li>
+                <li><a href="./producto.html"> Producto</a></li>
+                <li><a href="./productos.html"> Productos</a></li>  
+                <li><a href="./contacto.html"> Contacto</a></li>                
+             </ul>
+             <button  class="btnCar" id="carrito" onclick=" agregarCarrito()"> Carrito (0)</button>
+        </nav>
+    </header>
+    <section class="promotion">
+        <h2>Productos Destacados</h2>
+        <p>Explora nuestos productos con un 10% de descuento</p>  
+    </section>
+    <main class="cardContainer">
+        <div class="cards">
+           <article class="cardProduct">
+                 <img src="./assets/img/Soporte-cup.webp" class="imgProduct" alt="img1">
+                 <h3>Bandeja</h3>
+                 <p>Bandeja soporte para cupcake</p>
+                 <p class="price">$10.000</p>
+                 <a href="./producto.html">
+                    <button class="btnBuy">Agregar</button>
+                 </a>
+           </article>
+           <!---- tarjeta 02----->
+            <article class="cardProduct">
+                 <img src="./assets/img/boquillas.webp" class="imgProduct" alt="img2">
+                 <h3>Boquillas Reposteras </h3>
+                 <p> Set de boquillas pasteleras</p>
+                 <p class="price">$7.000</p>
+                 <a href="./producto.html">
+                    <button class="btnBuy">Agregar</button>
+                 </a>
+           </article>
+            <!--- tarjeta 03----->
+           <article class="cardProduct">
+                 <img src="./assets/img/espatulas.webp" class="imgProduct" alt="img3">
+                 <h3>Mesquinos </h3>
+                 <p>Set mesquinos de silicona</p>
+                 <p class="price">$10.000</p>
+                 <a href="./producto.html">
+                    <button class="btnBuy">Agregar</button>
+                 </a>
+           </article>
+            <!--- tarjeta 04-->
+           <article class="cardProduct">
+                 <img src="./assets/img/producto2.jpg" class="imgProduct" alt="img4">
+                 <h3>Cortadores de  Galletas </h3>
+                 <p>Set cortadores de galletas de aluminio.</p>
+                 <p class="price">$10.000</p>
+                 <a href="./producto.html">
+                    <button class="btnBuy">Agregar</button>
+                 </a>
+                 
+           </article>
+        </div>  
+    </main>
+    <section id="feedBack">
+       <header>
+             <h2>Reseñas de nuestros Clientes</h2>
+       </header> 
+       <div  id="comentDiv">
+            <article class="coment">
+                <p>"Las espátulas de silicona son flexibles ideales para no dejar mezcla en el molde."</p>
+                <p class="autor">Pablo Perez</p>
+            </article>
+            <article class="coment">
+                <p>"Excelente servicio, llagaron el mismo día."</p>
+                <p class="autor">Maria Soto</p>
+            </article>
+            <article class="coment">
+                <p>"El set de moldes es resistente y fácil de limpiar, 10/10."</p>
+                <p class="autor">Rosa Godoy</p>
+            </article>
+       </div>        
+    </section>   
+    <footer id="foo">
+        <p>&copy; Top Repostero todos los derechos reservados 2025</p>
+        <div class="social-icon">
+            <img class="iconSo" src="./assets/img/instagram.png" alt="instaLogo">
+            <img class="iconSo" src="./assets/img/twt.png" alt="twtLogo">
+            <img class="iconSo" src="./assets/img/wsp.png" alt="wspLogo">
+            <img class="iconSo" src="./assets/img/face.png" alt="faceLogo">
+        </div>
+    </footer>
 </body>
 </html>
