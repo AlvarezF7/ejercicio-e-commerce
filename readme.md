@@ -2,7 +2,8 @@
 
 ## Descripción
 Este proyecto tiene como objetivo implementar la interfaz de una página web de E-Commerce. Para ello se utilizan distintos elementos vistos durante el Módulo 2, como la barra de navegación, el listado de productos y la página de detalle.
-Es importante mencionar que no se utilizó el framework Bootstrap, ya que el propósito es ejercitar y reforzar los contenidos trabajados en CSS puro.
+Es importante mencionar que no se utilizó el framework Bootstrap, ya que el propósito es ejercitar y reforzar los contenidos trabajados en CSS puro para lograr
+que el diseño se adapte a los diferentes dispositivos.
 
 ## Tecnologías
 En este proyectyo se utilizo HTML5 y CSS3.
