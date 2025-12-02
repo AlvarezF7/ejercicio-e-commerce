@@ -6,11 +6,9 @@ Es importante mencionar que no se utilizó el framework Bootstrap, ya que el pro
 que el diseño se adapte a los diferentes dispositivos.
 
 ## Tecnologías
-En este proyectyo se utilizo HTML5 y CSS3.
-
-## Ejecutar el proyecto
-- Opción 1: abrir `index.html` en el navegador.
-- Opción 2 (recomendada): usar una extensión de servidor local (Live Server en VS Code).
+- HTML5.
+- CSS3.
+- Diseño Responsive.
 
 ## Funcionalidades
 - Barra de navegación, desde la pagina principal home, al dar clic en el boton de cada tarjeta.
@@ -18,7 +16,7 @@ En este proyectyo se utilizo HTML5 y CSS3.
 - Enlace o carro de compras (sin logica por ahora).
 - Pagina de detalle del producto, el  botón volver, redirecciona al usuario a la pagina con la lista de los productos.
 - Pagina de contacto con el respectivo formulario y el boton volver para redirigir al usuario a la vista de los productos.
-- Footer con información de la tienda.
+
 
 ## Capturas
 ![Home](https://github.com/AlvarezF7/ejercicio-e-commerce/blob/main/assets/img/Home.png) 
