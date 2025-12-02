@@ -13,9 +13,9 @@ En este proyectyo se utilizo HTML5 y CSS3.
 
 ## Funcionalidades
 - Barra de navegación, desde la pagina principal home, al dar clic en el boton de cada tarjeta.
-- Listado de productos en tarjetas con botón de compra, el boton de agragar te conduce a la pagina de detalle del producto.
+- Listado de productos en tarjetas con botón de agregar,el cual conduce al usuario a la pagina de detalle del producto.
 - Enlace o carro de compras (sin logica por ahora).
-- Pagina de detalle del producto, el boton volver, devuelve al usuario a la pagina con la lista de los productos.
+- Pagina de detalle del producto, el  botón volver, redirecciona al usuario a la pagina con la lista de los productos.
 - Pagina de contacto con el respectivo formulario y el boton volver para redirigir al usuario a la vista de los productos.
 - Footer con información de la tienda.
 
