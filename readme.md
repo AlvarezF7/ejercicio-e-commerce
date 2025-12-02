@@ -1,4 +1,4 @@
-# M2 — E-commerce Frontend
+# M2 — E-commerce Front-End
 
 ## Descripción
 Este proyecto tiene como objetivo implementar la interfaz de una página web de E-Commerce. Para ello se utilizan distintos elementos vistos durante el Módulo 2, como la barra de navegación, el listado de productos y la página de detalle.
